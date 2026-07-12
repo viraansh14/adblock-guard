@@ -1,0 +1,6 @@
+config/state.json
+config/history.jsonl
+config/dashboard.html
+config/*.log
+__pycache__/
+*.pyc
